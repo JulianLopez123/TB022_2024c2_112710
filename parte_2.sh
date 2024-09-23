@@ -36,13 +36,17 @@ for pokemon_entrada in $entrada; do
         echo "$pokemon_entrada no esta en la pokedex"
         continue
     else
-        peso=$(($(echo $pokemon_datos | cut -d "," -f4) / 10 ))
         altura=$(($(echo $pokemon_datos | cut -d "," -f3) *10 ))
+        peso=$(echo $pokemon_datos | cut -d "," -f4)
         ids_habilidades=($(buscar_ids_habilidades $(echo $pokemon_datos | cut -d "," -f1)))
         echo "-----------------"
         echo "Pokemon: $pokemon_entrada"
         echo "Altura: $altura centimetros"
-        echo "Peso: $peso kilos"
+        if [[ $peso -ge 10 ]]; then 
+            echo "Peso: $(($peso / 10)) kilos"
+        else
+            echo "Peso: 0.$peso kilos"
+        fi
         echo
         echo "Habilidades:"
         for id_habilidad in ${ids_habilidades[@]}; do
