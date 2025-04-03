@@ -1,0 +1,539 @@
+-----------------
+Pokemon: raichu
+Altura: 80 centimetros
+Peso: 30 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Pararrayos
+-----------------
+-----------------
+Pokemon: magneton
+Altura: 100 centimetros
+Peso: 60 kilos
+
+Habilidades:
+  * Imán
+  * Robustez
+  * Cálculo Final
+-----------------
+-----------------
+Pokemon: electrode
+Altura: 120 centimetros
+Peso: 66 kilos
+
+Habilidades:
+  * Insonorizar
+  * Elec. Estática
+  * Detonación
+-----------------
+-----------------
+Pokemon: electabuzz
+Altura: 110 centimetros
+Peso: 30 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Espíritu Vital
+-----------------
+-----------------
+Pokemon: jolteon
+Altura: 80 centimetros
+Peso: 24 kilos
+
+Habilidades:
+  * Absorbe Elec
+  * Pies Rápidos
+-----------------
+-----------------
+Pokemon: zapdos
+Altura: 160 centimetros
+Peso: 52 kilos
+
+Habilidades:
+  * Presión
+  * Elec. Estática
+-----------------
+-----------------
+Pokemon: lanturn
+Altura: 120 centimetros
+Peso: 22 kilos
+
+Habilidades:
+  * Absorbe Elec
+  * Iluminación
+  * Absorbe Agua
+-----------------
+-----------------
+Pokemon: flaaffy
+Altura: 80 centimetros
+Peso: 13 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Más
+-----------------
+-----------------
+Pokemon: ampharos
+Altura: 140 centimetros
+Peso: 61 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Más
+-----------------
+-----------------
+Pokemon: elekid
+Altura: 60 centimetros
+Peso: 23 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Espíritu Vital
+-----------------
+-----------------
+Pokemon: raikou
+Altura: 190 centimetros
+Peso: 178 kilos
+
+Habilidades:
+  * Presión
+  * Foco Interno
+-----------------
+-----------------
+Pokemon: manectric
+Altura: 150 centimetros
+Peso: 40 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Pararrayos
+  * Menos
+-----------------
+-----------------
+Pokemon: plusle
+Altura: 40 centimetros
+Peso: 4 kilos
+
+Habilidades:
+  * Más
+  * Pararrayos
+-----------------
+-----------------
+Pokemon: minun
+Altura: 40 centimetros
+Peso: 4 kilos
+
+Habilidades:
+  * Menos
+  * Absorbe Elec
+-----------------
+-----------------
+Pokemon: luxio
+Altura: 90 centimetros
+Peso: 30 kilos
+
+Habilidades:
+  * Rivalidad
+  * Intimidación
+  * Agallas
+-----------------
+-----------------
+Pokemon: luxray
+Altura: 140 centimetros
+Peso: 42 kilos
+
+Habilidades:
+  * Rivalidad
+  * Intimidación
+  * Agallas
+-----------------
+-----------------
+Pokemon: pachirisu
+Altura: 40 centimetros
+Peso: 3 kilos
+
+Habilidades:
+  * Fuga
+  * Recogida
+  * Absorbe Elec
+-----------------
+-----------------
+Pokemon: magnezone
+Altura: 120 centimetros
+Peso: 180 kilos
+
+Habilidades:
+  * Imán
+  * Robustez
+  * Cálculo Final
+-----------------
+-----------------
+Pokemon: electivire
+Altura: 180 centimetros
+Peso: 138 kilos
+
+Habilidades:
+  * Electromotor
+  * Espíritu Vital
+-----------------
+-----------------
+Pokemon: rotom
+Altura: 30 centimetros
+Peso: 0.3 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: zebstrika
+Altura: 160 centimetros
+Peso: 79 kilos
+
+Habilidades:
+  * Pararrayos
+  * Electromotor
+  * Herbívoro
+-----------------
+-----------------
+Pokemon: emolga
+Altura: 40 centimetros
+Peso: 5 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Electromotor
+-----------------
+-----------------
+Pokemon: galvantula
+Altura: 80 centimetros
+Peso: 14 kilos
+
+Habilidades:
+  * Ojo Compuesto
+  * Nerviosismo
+  * Enjambre
+-----------------
+-----------------
+Pokemon: eelektrik
+Altura: 120 centimetros
+Peso: 22 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: eelektross
+Altura: 210 centimetros
+Peso: 80 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: stunfisk
+Altura: 70 centimetros
+Peso: 11 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Flexibilidad
+  * Velo Arena
+-----------------
+-----------------
+Pokemon: thundurus-incarnate
+Altura: 150 centimetros
+Peso: 61 kilos
+
+Habilidades:
+  * Bromista
+  * Competitivo
+-----------------
+-----------------
+Pokemon: zekrom
+Altura: 290 centimetros
+Peso: 345 kilos
+
+Habilidades:
+  * Terravoltaje
+-----------------
+-----------------
+Pokemon: heliolisk
+Altura: 100 centimetros
+Peso: 21 kilos
+
+Habilidades:
+  * Piel Seca
+  * Velo Arena
+  * Poder Solar
+-----------------
+-----------------
+Pokemon: dedenne
+Altura: 20 centimetros
+Peso: 2 kilos
+
+Habilidades:
+  * Carrillo
+  * Recogida
+  * Más
+-----------------
+-----------------
+Pokemon: charjabug
+Altura: 50 centimetros
+Peso: 10 kilos
+
+Habilidades:
+  * Batería
+-----------------
+-----------------
+Pokemon: vikavolt
+Altura: 150 centimetros
+Peso: 45 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: togedemaru
+Altura: 30 centimetros
+Peso: 3 kilos
+
+Habilidades:
+  * Punta Acero
+  * Pararrayos
+  * Robustez
+-----------------
+-----------------
+Pokemon: tapu-koko
+Altura: 180 centimetros
+Peso: 20 kilos
+
+Habilidades:
+  * Electrogénesis
+  * Telepatía
+-----------------
+-----------------
+Pokemon: xurkitree
+Altura: 380 centimetros
+Peso: 100 kilos
+
+Habilidades:
+  * Ultraimpulso
+-----------------
+-----------------
+Pokemon: zeraora
+Altura: 150 centimetros
+Peso: 44 kilos
+
+Habilidades:
+  * Absorbe Elec
+-----------------
+-----------------
+Pokemon: boltund
+Altura: 100 centimetros
+Peso: 34 kilos
+
+Habilidades:
+  * Mandíbula Fuerte
+  * Tenacidad
+-----------------
+-----------------
+Pokemon: toxtricity-amped
+Altura: 160 centimetros
+Peso: 40 kilos
+
+Habilidades:
+  * Punk Rock
+  * Más
+  * Experto
+-----------------
+-----------------
+Pokemon: pincurchin
+Altura: 30 centimetros
+Peso: 1 kilos
+
+Habilidades:
+  * Pararrayos
+  * Electrogénesis
+-----------------
+-----------------
+Pokemon: morpeko-full-belly
+Altura: 30 centimetros
+Peso: 3 kilos
+
+Habilidades:
+  * Mutapetito
+-----------------
+-----------------
+Pokemon: dracozolt
+Altura: 180 centimetros
+Peso: 190 kilos
+
+Habilidades:
+  * Absorbe Elec
+  * Entusiasmo
+  * Ímpetu Arena
+-----------------
+-----------------
+Pokemon: arctozolt
+Altura: 230 centimetros
+Peso: 150 kilos
+
+Habilidades:
+  * Absorbe Elec
+  * Elec. Estática
+  * Quitanieves
+-----------------
+-----------------
+Pokemon: regieleki
+Altura: 120 centimetros
+Peso: 145 kilos
+
+Habilidades:
+  * Transistor
+-----------------
+-----------------
+Pokemon: rotom-heat
+Altura: 30 centimetros
+Peso: 0.3 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: rotom-wash
+Altura: 30 centimetros
+Peso: 0.3 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: rotom-frost
+Altura: 30 centimetros
+Peso: 0.3 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: rotom-fan
+Altura: 30 centimetros
+Peso: 0.3 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: rotom-mow
+Altura: 30 centimetros
+Peso: 0.3 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: thundurus-therian
+Altura: 300 centimetros
+Peso: 61 kilos
+
+Habilidades:
+  * Absorbe Elec
+-----------------
+-----------------
+Pokemon: ampharos-mega
+Altura: 140 centimetros
+Peso: 61 kilos
+
+Habilidades:
+  * Rompemoldes
+-----------------
+-----------------
+Pokemon: manectric-mega
+Altura: 180 centimetros
+Peso: 44 kilos
+
+Habilidades:
+  * Intimidación
+-----------------
+-----------------
+Pokemon: raichu-alola
+Altura: 70 centimetros
+Peso: 21 kilos
+
+Habilidades:
+  * Cola Surf
+-----------------
+-----------------
+Pokemon: graveler-alola
+Altura: 100 centimetros
+Peso: 110 kilos
+
+Habilidades:
+  * Imán
+  * Robustez
+  * Piel Eléctrica
+-----------------
+-----------------
+Pokemon: golem-alola
+Altura: 170 centimetros
+Peso: 316 kilos
+
+Habilidades:
+  * Imán
+  * Robustez
+  * Piel Eléctrica
+-----------------
+-----------------
+Pokemon: vikavolt-totem
+Altura: 260 centimetros
+Peso: 147 kilos
+
+Habilidades:
+  * Levitación
+-----------------
+-----------------
+Pokemon: oricorio-pom-pom
+Altura: 60 centimetros
+Peso: 3 kilos
+
+Habilidades:
+  * Pareja de Baile
+-----------------
+-----------------
+Pokemon: togedemaru-totem
+Altura: 60 centimetros
+Peso: 13 kilos
+
+Habilidades:
+  * Punta Acero
+  * Pararrayos
+  * Robustez
+-----------------
+-----------------
+Pokemon: pikachu-starter
+Altura: 40 centimetros
+Peso: 6 kilos
+
+Habilidades:
+  * Elec. Estática
+  * Pararrayos
+-----------------
+-----------------
+Pokemon: toxtricity-low-key
+Altura: 160 centimetros
+Peso: 40 kilos
+
+Habilidades:
+  * Punk Rock
+  * Menos
+  * Experto
+-----------------
+-----------------
+Pokemon: morpeko-hangry
+Altura: 30 centimetros
+Peso: 3 kilos
+
+Habilidades:
+  * Mutapetito
+-----------------
