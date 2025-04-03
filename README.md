@@ -1,1 +1,1 @@
-# TB022_2024c2_112710
+Ejemplo de script de bash que recibe datos de un csv
